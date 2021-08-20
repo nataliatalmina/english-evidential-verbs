@@ -1,0 +1,58 @@
+---
+title: "Evidential meaning of English clause-embedding verbs"
+author: "Natalia Talmina and Kyle Rawlins"
+date: '`r Sys.Date()`'
+output:
+  html_document:
+    df_print: paged
+  html_notebook:
+    code_folding: hide
+---
+
+Load the libraries:
+```{r}
+library(lme4)
+library(ggplot2)
+library(plyr)
+library(dplyr)
+```
+
+Import data:
+```{r}
+results <- read.csv("../results/alldata_processed.csv",header=TRUE) 
+```
+
+Primary analysis:
+```{r}
+sliftagr <- aggregate(Score ~ Verb + Slifting + Factivity, results, mean)
+
+# recode factivity scores for better readability
+sliftagr$Factscores <- ifelse(sliftagr$Factivity >= 0.4 & sliftagr$Factivity < 0.5, '0.4 to 0.5',
+                                  ifelse(sliftagr$Factivity >= 0.5 & sliftagr$Factivity < 0.6, '0.5 to 0.6',
+                                         ifelse(sliftagr$Factivity >= 0.6 & sliftagr$Factivity < 0.7, '0.6 to 0.7',
+                                                ifelse(sliftagr$Factivity >= 0.7 & sliftagr$Factivity < 0.8, '0.7 to 0.8',
+                                                       ifelse(sliftagr$Factivity >= 0.8 & sliftagr$Factivity < 0.9, '0.8 to 0.9',
+                                                              ifelse(sliftagr$Factivity >= 0.9 & sliftagr$Factivity <= 1, '0.9 to 1', NA))))))
+
+sliftagr$Factscores <- factor(sliftagr$Factscores, levels=c("0.4 to 0.5", "0.5 to 0.6", "0.6 to 0.7", "0.7 to 0.8", "0.8 to 0.9", "0.9 to 1"), labels=c("0.4 to 0.5", "0.5 to 0.6", "0.6 to 0.7", "0.7 to 0.8", "0.8 to 0.9", "0.9 to 1"))
+
+
+ggplot(sliftagr, aes(x=Slifting, y=Score, fill = Factscores)) +
+  xlab("Slifting score") + 
+  ylab("Evidential acceptability") +
+  geom_point() +
+  theme_bw() + 
+  geom_label(aes(label=Verb),show.legend = FALSE) +
+  geom_tile(alpha = 0) +
+  guides(fill = guide_legend(title="Factivity score:", override.aes = list(alpha = 1))) +
+  theme(axis.text=element_text(size=14),axis.title=element_text(size=14),
+        legend.position="bottom", legend.title=element_text(size=14), 
+        legend.text=element_text(size=13))
+```
+
+Fit regression model:
+```{r}
+interactionmodel <- lmer(Score ~ Slifting*Factivity*Frequency + KnowledgeState + (1|Participant) + (1|List) , data=results, REML=TRUE)
+summary(interactionmodel)
+```
+
