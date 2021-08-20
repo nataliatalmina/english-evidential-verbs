@@ -1,0 +1,1039 @@
+# target 1 accept-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I accepted that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 acknowledge-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I acknowledged it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 admit-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I admitted it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 advise-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was advised that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 affirm-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I affirmed it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 aggravate-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was aggravated that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 agitate-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was agitated it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 agree-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I agreed that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 alarm-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was alarmed that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 alert-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was alerted that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 allege-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I allege that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 amaze-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was amazed that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 amuse-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was amused it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 anger-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was angered that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 anguish-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was anguished that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 announce-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I announced it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 annoy-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was annoyed that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 answer-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I answered that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 apologize-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I apologize it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 appall-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I was appalled it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 appreciate-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I appreciated that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 approve-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I approved that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 argue-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I argued that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 articulate-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I articulated that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 ascertain-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I ascertained that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 1 assert-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I asserted it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 assess-knowledge
+Jane has just come back from a walk outside &ndash; it was a warm, sunny day after a long spell of rain. 
+A colleague asks Jane: &ldquo;Is it nice out?&rdquo;
+<b>Jane replies: &ldquo;I assessed that it's nice out.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 assume-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I assumed there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 assure-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was assured there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 astonish-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was astonished that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 astound-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was astounded there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 attest-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I attest that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 babble-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I babbled that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 baffle-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was baffled there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 befuddle-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was befuddled that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 believe-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I believe there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 bet-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I bet that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 boast-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I boasted that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 boggle-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was boggled that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 bother-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was bothered that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 cackle-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I cackled that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 chant-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I chanted that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 cheer-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I cheered that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 claim-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I claimed that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 clarify-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I clarified that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 comfort-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I was comforted that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 comment-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I commented there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 communicate-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I communicated that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 complain-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I complained that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 comprehend-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I comprehend there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 concern-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I'm concerned that there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 2 conclude-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I concluded there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 confess-knowledge
+Sophie is going grocery shopping, so she has just checked the fridge to see what she needs to buy. She's noticed that she is out of milk.
+Before Sophie leaves, her roommate asks her: &ldquo;Is there milk in the fridge?&rdquo; 
+<b>Sophie replies: &ldquo;I confess there isn't any.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 confirm-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I confirm it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 conjecture-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I conjecture that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 console-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was consoled that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 contemplate-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I contemplated that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 contend-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I contended that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 contest-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I contested it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 convey-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I conveyed that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 convince-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was convinced it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 cry-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I cried that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 daze-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was dazed that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 decide-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I decided it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 declare-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I declare that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 delight-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was delighted that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 deplore-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was deplored that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 depress-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was depressed it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 despise-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I despise that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 detect-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I detected that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 determine-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I determined it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 detest-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I detest that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 devastate-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was devastated that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 disagree-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I disagree that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 disappoint-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I was disappointed it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 disapprove-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I disapprove that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 disbelieve-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I disbelieve it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 3 discover-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I discovered that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 disgruntle-knowledge
+Julia has made plans to go to the movies with her friend Anna. She checked the times at the local movie theatre they like, and the movie they were interested in starts at 4pm.
+Anna is asking Julia: &ldquo;What time does the movie start?&rdquo;
+<b>Julia replies: &ldquo;I'm disgruntled that it starts at 4pm.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 disgust-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I was disgusted that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 dislike-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I dislike that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 dismay-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm dismayed that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 dissatisfy-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm dissatisfied they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 distress-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm distressed they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 disturb-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm disturbed that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 dupe-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I was duped that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 elate-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm elated they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 embarrass-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm embarrassed that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 embitter-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I was embittered they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 enjoy-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I enjoyed that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 enrage-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm enraged they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 enthrall-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm enthralled they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 enthuse-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I was enthused that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 establish-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I established that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 exasperate-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm exasperated that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 excite-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I was excited that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 exhilarate-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm exhilarated that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 fascinate-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm fascinated they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 feel-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I feel that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 fess_up-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I fess up that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 figure-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I figured they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 figure_out-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I figured out they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 find-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I found that they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 4 find_out-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I found out they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 fluster-knowledge
+Elizabeth's friends Richard and Emily have been married for 5 years; Elizabeth was maid of honor at their wedding.
+Elizabeth's mother is asking her: &ldquo;Have Richard and Emily been married for 5 years, or 7?&rdquo;
+<b>Elizabeth replies: &ldquo;I'm flustered they've been married for 5 years.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 frighten-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm frightened that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 frustrate-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm frustrated the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 gall-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm galled that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 gather-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I gathered that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 gauge-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I gauged that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 gladden-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm gladdened that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 gloat-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I gloated that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 gratify-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I was gratified the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 guess-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I guess the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 hate-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I hate that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 hear-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I hear the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 hearten-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm heartened that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 horrify-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm horrified that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 imagine-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I imagine the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 impress-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm impressed the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 incense-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm incensed that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 infer-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I inferred that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 inform-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I was informed the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 infuriate-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm infuriated that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 insist-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I insist that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 insult-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm insulted that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 interest-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm interested that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 intimidate-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm intimidated that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 intrigue-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm intrigued that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 5 irk-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm irked that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 irritate-noknowledge
+Lynn knows her colleague Lisa always puts a file with materials for a meeting on the table in the meeting room.
+Lynn's other colleague Arnold asks Lynn: &ldquo;Is the file on the table or on the shelf?&rdquo;
+<b>Lynn replies: &ldquo;I'm irritated that the file is on the table.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 jade-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm jaded that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 know-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I know Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 learn-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I learned Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 like-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I like that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 loathe-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I loathe that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 love-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I love that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 madden-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm maddened that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 miff-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm miffed that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 mortify-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm mortified that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 mystify-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm mystified that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 nonplus-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm nonplussed that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 note-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I noted Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 notice-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I noticed that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 observe-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I observed that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 obsess-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm obsessed that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 offend-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm offended that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 outrage-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm outraged Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 overwhelm-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm overwhelmed Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 perceive-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I perceived that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 perplex-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm perplexed that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 persuade-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I was persuaded Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 petrify-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm petrified Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 piece_together-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I pieced together that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 pity-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I pity that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 6 please-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I'm pleased that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 point_out-noknowledge
+Paul knows that Sue is very responsible and usually goes to meetings, while Bill is unreliable and finds them boring. 
+Paul's boss is asking him: &ldquo;Is Bill going to attend the meeting, or Sue?&rdquo;
+<b>Paul replies: &ldquo;I pointed out that Sue is going to attend the meeting.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 ponder-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I pondered that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 pray-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I prayed it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 presume-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I presumed that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 presuppose-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I presupposed that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 promise-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I promise it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 puzzle-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I'm puzzled that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 read-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I read that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 realize-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I realized it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 reason-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I reasoned it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 reassure-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I was reassured that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 recall-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I recall that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 reckon-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I reckon that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 recognize-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I recognized that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 recollect-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I recollect that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 relieve-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I'm relieved that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 relish-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I relish it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 remember-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I remember it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 report-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I report that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 resent-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I resent that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 ruminate-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I ruminated that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 sadden-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I'm saddened that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 satisfy-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I'm satisfied that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 say-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I say it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 scare-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I'm scared that it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 7 see-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I see it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 shock-noknowledge
+Bob's wants to try coffee at a new cafe that just opened around the corner from his office, but a friend of his warned him that the coffee there is quite expensive, starting at $5 per cup.
+Bob's colleague Alice is asking him: &ldquo;Is the coffee expensive at the new cafe?&rdquo;
+<b>Bob replies: &ldquo;I was shocked it's expensive.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 sicken-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was sickened that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 spook-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was spooked that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 startle-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was startled that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 stress-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was stressed that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 stun-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was stunned that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 stupefy-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was stupefied that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 suggest-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I suggested there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 suppose-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I suppose there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 surmise-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I surmise that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 surprise-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was surprised there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 suspect-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I suspect that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 swear-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I swear that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 tantalize-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was tantalized that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 tell-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was told that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 terrify-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I'm terrified there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 think-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I think there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 thrill-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I'm thrilled there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 trouble-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I'm troubled that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 trust-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I trust there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 understand-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I understand there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 unnerve-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was unnerved that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 unsettle-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I was unsettled that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 upset-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I'm upset there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 vex-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I'm vexed that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
+
+# target 8 wager-noknowledge
+Heidi is talking on the phone with her friend Rachel, who is at the local street festival. Rachel says a lot of people came, and it's very crowded. But both Heidi and her roommate are sick, so they can't go.
+Heidi's roommate is asking her: &ldquo;Are there a lot of people at the festival?&rdquo;
+<b>Heidi replies: &ldquo;I wager that there are a lot of people there.&rdquo;</b> Please indicate how natural this answer sounds.
